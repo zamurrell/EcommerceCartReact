@@ -1,5 +1,9 @@
 React Ecommerce Shopping Cart Frontend - Client-side Rendering
 
+Upon clone or download, run npm install to install node modules
+
+`npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
