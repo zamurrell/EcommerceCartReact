@@ -1,4 +1,4 @@
-React Ecommerce Shopping Cart Frontend - Client-side Rendering
+React Ecommerce Shopping Cart Frontend
 
 Upon clone or download, run npm install to install node modules
 
