@@ -1,5 +1,10 @@
 React Ecommerce Shopping Cart Frontend
 
+## Demo
+
+![Ecommerce Cart React Demo](https://i.imgur.com/RasWNHX.gif)
+
+
 Upon clone or download, run npm install to install node modules
 
 `npm install`
